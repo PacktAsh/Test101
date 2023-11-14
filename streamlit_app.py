@@ -1,8 +1,3 @@
-
-!pip install openai==0.28.1
-!pip install streamlit
-!pip install langchain
-
 import streamlit as st
 from langchain.llms import OpenAI
 
